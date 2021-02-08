@@ -1,5 +1,4 @@
-# AppleDetectionAndCounting
-Detecting and Counting Apples in Real World Images using OpenCV and Python
+# Detecting and Counting Apples in Real World Images using OpenCV and Python
 
 Python scripts and images for my [blog post](https://shrishailsgajbhar.github.io/post/OpenCV-Apple-detection-counting). 
 
